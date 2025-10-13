@@ -1,0 +1,22 @@
+Name:v
+Location:pune
+Crop:soya
+Temperature:67.0C
+Rainfall:80.0mm
+Advice:
+Name:v
+Location:pune
+Crop:soya
+Temperature:60.0C
+Rainfall:50.0mm
+Advice:
+Name: v
+Location: pune
+Crop: soya
+Temperature: 30.0°C
+Rainfall: 70.0 mm
+Advice:
+ - ✅ Temperature is within healthy range.
+ - ☔ Rainfall is adequate.
+ - 📌 General advice: Follow local farming guidelines.
+----------------------------------------
